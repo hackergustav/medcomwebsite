@@ -1,0 +1,76 @@
+.MultiCarousel { float: left; overflow: hidden; padding: 15px; width: 100%; position:relative; }
+.MultiCarousel .MultiCarousel-inner { transition: 1s ease all; float: left; }
+.MultiCarousel .MultiCarousel-inner .item { float: left;}
+.MultiCarousel .MultiCarousel-inner .item > div { text-align: center; padding:10px; margin:10px;color:#666;}
+.MultiCarousel .leftLst, .MultiCarousel .rightLst { position:absolute; border-radius:50%;top:calc(50% - 20px); }
+.MultiCarousel .leftLst { left:0; }
+.MultiCarousel .rightLst { right:0; }
+
+.MultiCarousel .leftLst.over, .MultiCarousel .rightLst.over { pointer-events: none; opacity: 0.2 }
+
+
+.rightLst,.leftLst {background:#1bb1dc }
+
+#team {
+  padding: 60px 0;
+}
+
+
+.member .member-info {
+
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  position: absolute;
+  top: 100px;
+  left: 0;
+  right: 0;
+  padding: 10px 0 120px 0;
+  background: #fff;
+  border-top:  1px solid #ccc;
+  width:90%;
+  margin:0 auto;
+
+}
+.member .member-info-content {
+
+  transition: margin 0.2s;
+  height: 20px;
+  transition: height 0.4s;
+  padding-bottom: 30px;
+}
+
+
+.member {
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  
+}
+
+
+.member h4 {
+  font-weight: 400;
+  font-weight: bold;
+  margin-bottom: 2px;
+  color: #1cb0db;
+  font-size: 12px;
+
+}
+
+.member span {
+  font-style: italic;
+  display: block;
+  font-size: 10px;
+  color: #413e66;
+}
+
