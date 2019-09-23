@@ -101,6 +101,16 @@ $(document).ready(function () {
     function click(ell, ee) {
         var Parent = "#" + $(ee).parent().attr("id");
         var slide = $(Parent).attr("data-slide");
+
+          var bodyWidth = $('body').width();
+            if (bodyWidth >= 800) {
+                 slide = 3;
+            }
+            else
+            {
+                slide = 1;
+            }
+
         ResCarousel(ell, Parent, slide);
     }
 
@@ -233,22 +243,7 @@ $(document).ready(function () {
     });
   });
 
-  // Testimonials carousel (uses the Owl Carousel library)
-  $(".testimonials-carousel").owlCarousel({
-    autoplay: true,
-    dots: true,
-    loop: true,
-    items: 1
-  });
 
-  // Clients carousel (uses the Owl Carousel library)
-  $(".clients-carousel").owlCarousel({
-    autoplay: true,
-    dots: true,
-    loop: true,
-    responsive: { 0: { items: 2 }, 768: { items: 4 }, 900: { items: 6 }
-    }
-  });
 
 })(jQuery);
 
