@@ -1,0 +1,11 @@
+<div class="item ">
+    <div class="member">
+      <img src="img/profiles/{image_file}" class="img-fluid rounded-circle" alt="">
+      <div class="member-info rounded-top">
+        <div class="member-info-content">
+          <h4>{full_name}</h4>
+          <span>{title}</span>
+        </div>
+      </div>
+    </div>
+</div>

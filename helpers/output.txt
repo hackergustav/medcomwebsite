@@ -1,0 +1,241 @@
+<div class="item ">
+    <div class="member">
+      <img src="img/profiles/adam_gustavsson.jpg" class="img-fluid rounded-circle" alt="">
+      <div class="member-info rounded-top">
+        <div class="member-info-content">
+          <h4>Adam Gustavsson</h4>
+          <span>Analyst</span>
+        </div>
+      </div>
+    </div>
+</div><div class="item ">
+    <div class="member">
+      <img src="img/profiles/albin_linden.jpg" class="img-fluid rounded-circle" alt="">
+      <div class="member-info rounded-top">
+        <div class="member-info-content">
+          <h4>Albin Lindén</h4>
+          <span>Developer</span>
+        </div>
+      </div>
+    </div>
+</div><div class="item ">
+    <div class="member">
+      <img src="img/profiles/alexander_anserud.jpg" class="img-fluid rounded-circle" alt="">
+      <div class="member-info rounded-top">
+        <div class="member-info-content">
+          <h4>Alexander Anserud</h4>
+          <span>Developer</span>
+        </div>
+      </div>
+    </div>
+</div><div class="item ">
+    <div class="member">
+      <img src="img/profiles/anand_sunkapur.jpg" class="img-fluid rounded-circle" alt="">
+      <div class="member-info rounded-top">
+        <div class="member-info-content">
+          <h4>Anand Sunkapur</h4>
+          <span>Tester</span>
+        </div>
+      </div>
+    </div>
+</div><div class="item ">
+    <div class="member">
+      <img src="img/profiles/anna_roth.jpg" class="img-fluid rounded-circle" alt="">
+      <div class="member-info rounded-top">
+        <div class="member-info-content">
+          <h4>Anna Roth</h4>
+          <span>Developer</span>
+        </div>
+      </div>
+    </div>
+</div><div class="item ">
+    <div class="member">
+      <img src="img/profiles/astrid_tandberg.jpg" class="img-fluid rounded-circle" alt="">
+      <div class="member-info rounded-top">
+        <div class="member-info-content">
+          <h4>Astrid Tandberg</h4>
+          <span>Usability Designer</span>
+        </div>
+      </div>
+    </div>
+</div><div class="item ">
+    <div class="member">
+      <img src="img/profiles/axel_friberg.jpg" class="img-fluid rounded-circle" alt="">
+      <div class="member-info rounded-top">
+        <div class="member-info-content">
+          <h4>Axel Friberg</h4>
+          <span>Configuration Manager</span>
+        </div>
+      </div>
+    </div>
+</div><div class="item ">
+    <div class="member">
+      <img src="img/profiles/daniel_sonesson.jpg" class="img-fluid rounded-circle" alt="">
+      <div class="member-info rounded-top">
+        <div class="member-info-content">
+          <h4>Daniel Sonesson</h4>
+          <span>Lead Developer</span>
+        </div>
+      </div>
+    </div>
+</div><div class="item ">
+    <div class="member">
+      <img src="img/profiles/david_gumpert_harryson.jpg" class="img-fluid rounded-circle" alt="">
+      <div class="member-info rounded-top">
+        <div class="member-info-content">
+          <h4>David Gumpert Harryson</h4>
+          <span>UX Designer / Developer</span>
+        </div>
+      </div>
+    </div>
+</div><div class="item ">
+    <div class="member">
+      <img src="img/profiles/elina_jonsson.jpg" class="img-fluid rounded-circle" alt="">
+      <div class="member-info rounded-top">
+        <div class="member-info-content">
+          <h4>Elina Jonsson</h4>
+          <span>Lead analyst</span>
+        </div>
+      </div>
+    </div>
+</div><div class="item ">
+    <div class="member">
+      <img src="img/profiles/emmelie_jeppsson.jpg" class="img-fluid rounded-circle" alt="">
+      <div class="member-info rounded-top">
+        <div class="member-info-content">
+          <h4>Emmelie Jeppsson</h4>
+          <span>Quality Coordinator</span>
+        </div>
+      </div>
+    </div>
+</div><div class="item ">
+    <div class="member">
+      <img src="img/profiles/eric_jonsson.jpg" class="img-fluid rounded-circle" alt="">
+      <div class="member-info rounded-top">
+        <div class="member-info-content">
+          <h4>Eric Jonsson</h4>
+          <span>Test Leader</span>
+        </div>
+      </div>
+    </div>
+</div><div class="item ">
+    <div class="member">
+      <img src="img/profiles/gustav_wahlquist.jpg" class="img-fluid rounded-circle" alt="">
+      <div class="member-info rounded-top">
+        <div class="member-info-content">
+          <h4>Gustav Wahlquist</h4>
+          <span>Deployment Manager</span>
+        </div>
+      </div>
+    </div>
+</div><div class="item ">
+    <div class="member">
+      <img src="img/profiles/haore_ahmadi.jpg" class="img-fluid rounded-circle" alt="">
+      <div class="member-info rounded-top">
+        <div class="member-info-content">
+          <h4>Haore Ahmadi</h4>
+          <span>Line- and Process Manager</span>
+        </div>
+      </div>
+    </div>
+</div><div class="item ">
+    <div class="member">
+      <img src="img/profiles/henrik_johansson.jpg" class="img-fluid rounded-circle" alt="">
+      <div class="member-info rounded-top">
+        <div class="member-info-content">
+          <h4>Henrik Johansson</h4>
+          <span>Developer</span>
+        </div>
+      </div>
+    </div>
+</div><div class="item ">
+    <div class="member">
+      <img src="img/profiles/isabelle_johansson.jpg" class="img-fluid rounded-circle" alt="">
+      <div class="member-info rounded-top">
+        <div class="member-info-content">
+          <h4>Isabelle Johansson</h4>
+          <span>Product Owner</span>
+        </div>
+      </div>
+    </div>
+</div><div class="item ">
+    <div class="member">
+      <img src="img/profiles/jonatan_harling.jpg" class="img-fluid rounded-circle" alt="">
+      <div class="member-info rounded-top">
+        <div class="member-info-content">
+          <h4>Jonatan Harling</h4>
+          <span>Tester</span>
+        </div>
+      </div>
+    </div>
+</div><div class="item ">
+    <div class="member">
+      <img src="img/profiles/jonathan_reimertz.jpg" class="img-fluid rounded-circle" alt="">
+      <div class="member-info rounded-top">
+        <div class="member-info-content">
+          <h4>Jonathan Reimertz</h4>
+          <span>Project Manager</span>
+        </div>
+      </div>
+    </div>
+</div><div class="item ">
+    <div class="member">
+      <img src="img/profiles/katarina_luu.jpg" class="img-fluid rounded-circle" alt="">
+      <div class="member-info rounded-top">
+        <div class="member-info-content">
+          <h4>Katarina Luu</h4>
+          <span>Analyst</span>
+        </div>
+      </div>
+    </div>
+</div><div class="item ">
+    <div class="member">
+      <img src="img/profiles/liang_li.jpg" class="img-fluid rounded-circle" alt="">
+      <div class="member-info rounded-top">
+        <div class="member-info-content">
+          <h4>Liang Li</h4>
+          <span>Developer</span>
+        </div>
+      </div>
+    </div>
+</div><div class="item ">
+    <div class="member">
+      <img src="img/profiles/oscar_baart.jpg" class="img-fluid rounded-circle" alt="">
+      <div class="member-info rounded-top">
+        <div class="member-info-content">
+          <h4>Oscar Baart</h4>
+          <span>Analyst</span>
+        </div>
+      </div>
+    </div>
+</div><div class="item ">
+    <div class="member">
+      <img src="img/profiles/philip_palapelas_kantola.jpg" class="img-fluid rounded-circle" alt="">
+      <div class="member-info rounded-top">
+        <div class="member-info-content">
+          <h4>Philip Palapelas Kantola</h4>
+          <span>Lead Architect</span>
+        </div>
+      </div>
+    </div>
+</div><div class="item ">
+    <div class="member">
+      <img src="img/profiles/rafiya_zannat.jpg" class="img-fluid rounded-circle" alt="">
+      <div class="member-info rounded-top">
+        <div class="member-info-content">
+          <h4>Rafiya Zannat</h4>
+          <span>Tester</span>
+        </div>
+      </div>
+    </div>
+</div><div class="item ">
+    <div class="member">
+      <img src="img/profiles/weile_chen.jpg" class="img-fluid rounded-circle" alt="">
+      <div class="member-info rounded-top">
+        <div class="member-info-content">
+          <h4>Weile Chen</h4>
+          <span>Developer</span>
+        </div>
+      </div>
+    </div>
+</div>

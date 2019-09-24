@@ -1,0 +1,24 @@
+Adam Gustavsson	adam_gustavsson.jpg	Analyst
+Albin Lindén	albin_linden.jpg	Developer
+Alexander Anserud	alexander_anserud.jpg	Developer
+Anand Sunkapur	anand_sunkapur.jpg	Tester
+Anna Roth	anna_roth.jpg	Developer
+Astrid Tandberg	astrid_tandberg.jpg	Usability Designer
+Axel Friberg	axel_friberg.jpg	Configuration Manager
+Daniel Sonesson	daniel_sonesson.jpg	Lead Developer
+David Gumpert Harryson	david_gumpert_harryson.jpg	UX Designer / Developer
+Elina Jonsson	elina_jonsson.jpg	Lead analyst
+Emmelie Jeppsson	emmelie_jeppsson.jpg	Quality Coordinator
+Eric Jonsson	eric_jonsson.jpg	Test Leader
+Gustav Wahlquist	gustav_wahlquist.jpg	Deployment Manager
+Haore Ahmadi	haore_ahmadi.jpg	Line- and Process Manager
+Henrik Johansson	henrik_johansson.jpg	Developer
+Isabelle Johansson	isabelle_johansson.jpg	Product Owner
+Jonatan Harling	jonatan_harling.jpg	Tester
+Jonathan Reimertz	jonathan_reimertz.jpg	Project Manager
+Katarina Luu	katarina_luu.jpg	Analyst
+Liang Li	liang_li.jpg	Developer
+Oscar Baart	oscar_baart.jpg	Analyst
+Philip Palapelas Kantola	philip_palapelas_kantola.jpg	Lead Architect
+Rafiya Zannat	rafiya_zannat.jpg	Tester
+Weile Chen	weile_chen.jpg	Developer
